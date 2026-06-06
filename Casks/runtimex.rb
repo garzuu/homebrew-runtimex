@@ -2,8 +2,7 @@ cask "runtimex" do
   version "1.0.1"
   sha256 "REPLACE_WITH_SHA256"
 
-  url "https://github.com/garzuu/runtimex/releases/download/v#{version}/RuntimeX-#{version}.dmg",
-      verified: "github.com/garzuu/runtimex/"
+  url "https://runtimex.garzuu.com/downloads/RuntimeX-macos.dmg"
   name "RuntimeX"
   desc "Offline-first technical dive planner"
   homepage "https://runtimex.garzuu.com"
