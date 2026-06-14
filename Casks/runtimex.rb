@@ -1,6 +1,6 @@
 cask "runtimex" do
-  version "1.0.1"
-  sha256 "569881d949eb03b7dbddd1392fe0b55493ad4ee8f57d360a6bb2a55d6718212e"
+  version "1.0.3"
+  sha256 "2d4750998380b73ecd7dfb4fcd5eda5c85945fcd1c246b82d3970854a721b87a"
 
   url "https://runtimex.garzuu.com/downloads/RuntimeX-macos.dmg"
   name "RuntimeX"
